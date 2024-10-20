@@ -1,10 +1,25 @@
 .img1{
-	height: 12%;
+	height: 450px;
 }
 h1{
 	color: green;
 	text-align:center;
 }
 p{
-	font-size:38px;
+	font-size:30px;
+}
+.img2{
+	height:450px;
+}
+body{
+	background-color: skyblue;
+}
+
+div {
+	margin-bottom: 20px;
+
+}
+
+.mycolor{
+	background-color: lightpink;
 }
